@@ -1,0 +1,47 @@
+直线 L
+构造线 XL
+多段线 PL
+多线/双线 ML
+正多边形 POL
+矩形 REC
+圆C
+圆弧 ARC
+点PO
+定点等分ME
+定数等分 DIV
+填充 H
+查询 AA
+面域REG
+测量 LI
+文字 T
+删除 DEL键或 E
+复制 CO
+镜像 MI
+偏移 O
+阵列 AR
+移动 M
+旋转 RO
+缩放 SC
+拉伸 S
+修剪 TR
+延伸 EX
+打断于点 BREAK
+打断 BR
+合并 J
+倒角 CHA
+线性标注 DLI
+对齐标注 DAL
+半径标注 DRA
+角度标注 DAN
+弧度标注 DAR
+直角标注 DDI
+圆心标注 DCE
+基线标注 DBA
+返回 ESC键
+确定 回车键或空格键
+圆角 F
+刷子 MA
+选项 OP
+试图居中 Z+空格键+A+空格键
+撤销 CTRL键+Z
+图形线性 CTRL键+ 1键
