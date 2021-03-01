@@ -43,11 +43,11 @@
 圆角		F
 刷子		MA
 选项		OP
-试图居中 Z + 空格键 + A + 空格键
-撤销 CTRL键 + Z
-图形线性 CTRL键 + 1键
-创建样板 CTRL键 + N
-快速保存 CTRL键 + S
+试图居中	Z + 空格键 + A + 空格键
+撤销		CTRL键 + Z
+图形线性	CTRL键 + 1键
+创建样板	CTRL键 + N
+快速保存	CTRL键 + S
 
 
 
