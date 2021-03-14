@@ -4,12 +4,14 @@
 多段线		PL
 多线/双线	ML
 正多边形	POL
+样条曲线	SPL
 矩形		REC
 圆		C
 圆弧		ARC
 点		PO
 定点等分	ME
 定数等分	DIV
+倒角		F
 填充		H
 查询		AA
 面域		REG
